@@ -1,0 +1,12 @@
+.App {
+    /* text-align: center; */
+    font-style: italic;
+}
+
+input {
+    height: 25px;
+    width: 18%;
+    outline: none;
+    border-radius: 6px;
+    border: 1px solid;
+}
